@@ -1,0 +1,2 @@
+- Independent t-test approach seems solid enough
+- Paired t-test approach would likely use similar code - but generate the 2nd sample as a difference between the originally sampled mean minus what the expected effect size and variation is?
